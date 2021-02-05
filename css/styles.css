@@ -1,0 +1,439 @@
+/****************************************************header*****************************************************************/
+html body {
+        width: 100%;
+        height: 100%;
+        padding: 0px;
+        margin: 0px;
+        overflow-x: hidden;
+}
+.box-shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 18.4%;
+    border-radius: 19px;
+    height: 650px;
+}
+.flex{
+display: flex;
+}
+    
+
+.same{
+    margin-top: 55px;
+    padding-right: 30px;
+    font-weight: bolder;
+    font-size:18px ;
+}
+#first{
+    margin-left: 350px;
+    padding-right: 30px;
+    margin-top: 20px;
+}
+.icon{
+    height: 30px;
+    width: auto;
+    padding-right: 15px;
+   
+   
+}
+#margin{
+margin-left: 1350px;
+}
+
+/****************************************************main*****************************************************************/
+/************************div***************************/
+#first-div{
+    background-color:#0779e4;
+    height: 500px;
+}
+#first-p{
+margin-left: 510px;
+padding-top: 70px;
+font-size: 20px;
+letter-spacing: 12px;
+color: #77d8d8;
+font-weight: bold;
+position: relative;
+bottom: 20px;
+}
+#first-h1{
+    margin-left: 700px;
+    color: white;
+    font-size: 55px;
+    position: relative;
+    bottom: 30px;
+}
+#first-button{
+    position: relative;
+    bottom: 240px;
+    right: 60px;
+margin-left: 800px;
+width: 200px;
+border-radius: 25px;
+margin-right: 15px;
+margin-top: 0;
+background-color: #97e5ef;
+}
+#second-button{
+    width: 200px;
+border-radius: 25px;
+position: relative;
+bottom: 240px;
+right: 60px;
+}
+#first-img{
+    position: relative;
+    bottom: 180px;
+    right: 530px;
+}
+/************************section1***************************/
+#first-h3{
+    color: #566073;
+    margin-top: 70px;
+}
+#second-h1{
+    color: #fc7f7f;
+    font-size: 50px;
+}
+#second-p{
+    color: #566073;
+    font-size: 20px;
+    font-weight: 500;
+}
+.same-h3{
+    color: #fc7f7f;
+    font-size: 21px;
+   
+}
+.same-p{
+    color: #566073;
+   
+}
+#second-div{
+    width: 40%;
+    margin-left: 550px;
+    text-align: center;
+}
+#second-img{
+    height: 450px;
+    width: auto;
+  position: relative;
+  right: 650px;
+  bottom: 130px;
+   
+}
+#third-div{
+    margin-top: 100px;
+    text-align: right;
+    margin-left: 300px;
+    width: 15%;
+    position: relative;
+    left: 50px;
+}
+#fourth-div{
+    width: 15%;
+    text-align: right;
+    margin-left: 300px;
+}
+#fifth-div{
+    width: 15%;
+    text-align: right;
+    margin-left: 300px;
+}
+#sixth-div{
+    width: 15%;
+    position: relative;
+    left: 1300px;
+    bottom: 530px;
+}
+#seventh-div{
+    width: 15%;
+    position: relative;
+    left: 1300px;
+    bottom: 530px;
+}
+.same-icon{
+    height:50px;
+    width: auto;
+    float: right;
+    border: 10px solid lightgrey;
+    border-radius: 100%;
+}
+#first-icon{
+    position: relative;
+    left: 70px;
+    top: 20px
+}
+#second-h3{
+    position: relative;
+    left: 50px;
+}
+#second-icon{
+    position: relative;
+    left: 65px;
+    top: 20px
+}
+#third-h3{
+    position: relative;
+    left: 50px;
+    margin-top: 50px;
+}
+#third-icon{
+    position: relative;
+    left: 20px;
+   
+}
+#fourth-h3{
+  position: relative;
+
+    margin-top: 50px;;
+}
+#shelter{
+    position: relative;
+    right: 50px;
+}
+#fourth-icon{
+    height:50px;
+    width: auto;
+    border: 10px solid lightgrey;
+    border-radius: 100%;
+    position: relative;
+bottom: 10px;
+right: 150px;
+}
+#fifth-icon{
+    height:50px;
+    width: auto;
+    float: left;
+    border: 10px solid lightgrey;
+    border-radius: 100%;
+    position: relative;
+    bottom: 5px;
+    right: 90px;
+}
+#fifth-h3{
+position: relative;
+bottom: 70px;
+right: 80px;
+}
+#nutrition{
+    position: relative;
+    bottom: 70px;
+    right: 89px;
+}
+#sixth-h3{
+    position: relative;
+    right: 70px;
+    bottom: 30px;
+}
+#healthcare{
+    position: relative;
+    bottom: 30px;
+    right: 20px;
+}
+/************************section2***************************/
+#eight-div{
+    text-align: center;
+    position: relative;
+    bottom: 500px;
+    width: 40%;
+    margin-left: 600px;
+}
+#seventh-h3{
+    letter-spacing: 10px;
+    color: #566073;
+    font-size: 25px;
+}
+#third-h1{
+    color: #fc7f7f; 
+    font-size: 50px;
+    letter-spacing: 0;
+}
+#blog{
+    font-size: 18px;
+    line-height: 1.5;
+   
+    color: #566073;
+}
+#nine-div{
+ 
+    position: relative;
+    left: 420px;
+    bottom: 450px;
+}
+#ten-div{
+    
+    position: relative;
+    left: 820px;
+    bottom: 1100px;
+}
+#eleven-div{
+    
+    position: relative;
+    left: 1220px;
+    bottom: 1750px;
+
+}
+.round{
+    border-radius: 20px 20px 0 0;
+}
+.same-color{
+    color:  #fc7f7f;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 13px;
+    position: relative;
+    top: 50px;
+    left: 30px;
+    width: 80%;
+}
+.same-h{
+    position: relative;
+    top: 50px;
+    left: 30px;  
+    font-size: 20px;
+    color:#566073 ;
+    width: 80%;
+}
+.para{
+    position: relative;
+    top: 50px;
+    left: 30px;  
+   color:#566073 ; 
+   width: 80%;
+}
+.button{
+    position: relative;
+  top: 60px;
+    left: 30px; 
+    border-radius: 30px; 
+    width: 260px;
+    height: 50px;
+    background-color: #40e0d0;
+    color: white;
+    font-size: 20px;
+font-weight: 500;
+}
+#height{
+    height:550px;
+}
+/************************section3***************************/
+#first-ul{
+    display: flex;
+}
+div ul li{
+    padding-right: 50px;
+}
+#first-li{
+    margin-left: 400px;
+}
+/************************section3***************************/
+#dog{
+    display: flex;
+}
+.same-img{
+    width: 477px;
+    height: 389px;
+    float: left;
+    margin-top: 100px;
+}
+#dog{
+padding-left: 0;
+}
+/************************section4***************************/
+#section-4{
+    height: 450px;
+    background-color: #fc7f7f;
+  }
+h4{
+      color: white;
+      letter-spacing: 6px;
+      word-spacing: 5px;
+      padding-top: 70px;
+  }
+  #div1{
+      width: 20%;
+      margin-left: 500px;
+  }
+  #last-h1{
+      color: white;
+      letter-spacing: 0px;
+      font-weight: 600;
+      font-size: 45px;
+  }
+  #last-p{
+    color: white;
+    font-size: 20px;
+}
+input{
+    width: 400px;
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+#div2{
+    margin-left: 1000px;
+    position: relative;
+    bottom: 280px;
+}
+#input-3{
+    height: 100px;
+}
+label{
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+}
+#input-4{
+    height: 17px;
+    width: 17px;
+    background-color: #eee;
+}
+#last-button{
+    width: 400px;
+    height: 50px;
+    background-color: #40e0d0;
+    border-radius: 30px;
+    color: white;
+    font-weight: 500;
+    border: 1px solid #40e0d0;
+}
+#last-div{
+    margin-left: 400px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.same-li{
+    padding-top: 10px;
+    font-weight: 450;
+}
+#li-1{
+    font-size: 20px;
+    font-weight: 500;
+   letter-spacing: 2px;
+}
+footer{
+    background-color: #2d333e;;
+    height: 80px;
+}
+#footer{
+    color:white;
+    font-size: 18px;
+    font-weight: 450;
+    position: relative;
+    top:25px;
+    left:400px
+}
+#fatima{
+    color:white;
+    font-size: 13px;
+    font-weight: 450;
+    position: relative;
+    top:8px;
+    left:400px
+}
+
+
+
+
